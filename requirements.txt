@@ -1,0 +1,3 @@
+pymunk
+numpy
+opencv-python
