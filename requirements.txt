@@ -1,3 +1,14 @@
 pymunk
 numpy
 opencv-python
+torch
+torchvision
+numpy
+scipy
+scikit-learn
+matplotlib
+tqdm
+pymunk
+pillow
+transformers
+huggingface_hub
